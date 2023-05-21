@@ -71,6 +71,12 @@ a:hover {
   color: #F3DEBA;
 }
 
+table
+{
+  text-align: center;
+  margin: auto;
+}
+
 .underline {
   text-decoration: underline;
 }
